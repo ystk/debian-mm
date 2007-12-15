@@ -1,0 +1,2 @@
+version=2
+ftp://ftp.ossp.org/pkg/lib/mm/mm-(.*)\.tar\.gz debian uupdate
