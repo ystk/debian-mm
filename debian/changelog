@@ -1,3 +1,9 @@
+mm (1.4.2-4) unstable; urgency=low
+
+  * Drop .la files (closes: #622511).
+
+ -- Mark Brown <broonie@debian.org>  Sun, 19 Jun 2011 11:25:04 +0100
+
 mm (1.4.2-3) unstable; urgency=low
 
   * Add symbol versions file.
