@@ -1,3 +1,10 @@
+mm (1.4.2-5) unstable; urgency=low
+
+  * Update to debhelper 9.
+  * Policy 3.9.4.
+
+ -- Mark Brown <broonie@debian.org>  Fri, 03 May 2013 11:22:44 +0100
+
 mm (1.4.2-4) unstable; urgency=low
 
   * Drop .la files (closes: #622511).
